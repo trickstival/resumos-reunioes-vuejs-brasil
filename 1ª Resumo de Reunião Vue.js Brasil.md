@@ -69,7 +69,7 @@
 ### -> Vídeos de uma mesma playlist terão a mesma thumbnail, mas com o título e o ícone superior direito alterados;
 ### -> Playlists diferentes podem ter imagens de fundo diferentes;
 ### -> Vídeos isolados sem playlist terão a mesma cor de thumbnail;
-### -> Exemplo de thumbnail feita pelo Alan: 
+### -> Exemplo de thumbnail feita pelo Ktquez: 
 ![Imagem de exemplo de thumbnail](https://cdn.discordapp.com/attachments/364752267070668801/364910243458842626/Youtube_thumbnail_-_Code_splitting.png)
 
 - ## DevKit
@@ -97,9 +97,9 @@
 
 - # // Ponto Alto do dia - Vue-week //
 
-### -> Eu, o Alan e a Roberta conversamos sobre a possibilidade de realizar uma conferência nacional;
+### -> Eu, o Ktquez e a Roberta conversamos sobre a possibilidade de realizar uma conferência nacional;
 
-### -> O Alan ou a Roberta (não lembro qual dos dois) falou sobre um tipo de conferência remota com vídeos já gravados sendo exibidos para o público em determinados horários;
+### -> O Ktquez ou a Roberta (não lembro qual dos dois) falou sobre um tipo de conferência remota com vídeos já gravados sendo exibidos para o público em determinados horários;
 
 ### -> Tivemos a ideia de chamar isso de "pré-conf";
 
