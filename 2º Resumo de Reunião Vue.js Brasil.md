@@ -21,6 +21,7 @@
 ### -> As séries que escolheremos para fazer no canal terão base nas sugestões dadas no Trello do canal do Vue.js Brasil (pedir para o ktquez quem não estiver incluído).
 
 - ## Lives
+  - ### A live de estreia do canal provavelmente será realizada dia 24/10/2017
   - ### Inicialmente serão feitas de 15 em 15 dias e depois de um maior estabelecimento do canal seguirão semanalmente
   - ### As lives serão realizadas de preferência nas terças-feiras
   - ### Estilo das lives -> 
